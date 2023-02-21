@@ -1,0 +1,37 @@
+What is the use of Emmet?
+Emmet is a free add-on for your text editor. It allows you to type shortcuts that are then expanded into full pieces of code. By using Emmet, developers type less, they save both on keystrokes and time. Also relying on Emmet's auto completion means fewer typos and missing tags, leading to more robust and valid files.
+
+
+
+What is the difference between framework and library in React?
+The 'technical' difference between a JavaScript framework (like Angular or Vue. js) and library (like React) is that a framework defines how a developer designs an application and a library consists of functions that an application can call to perform a task. The framework calls on the application code
+
+
+What is CDN? Why do we use it?
+A content delivery network (CDN) is a network of interconnected servers that speeds up webpage loading for data-heavy applications. CDN can stand for content delivery network or content distribution network.A content delivery network (CDN) refers to a geographically distributed group of servers which work together to provide fast delivery of Internet content
+
+
+
+What is crossorigin in script tag?
+The crossorigin attribute sets the mode of the request to an HTTP CORS Request. Web pages often make requests to load resources on other servers. Here is where CORS comes in. A cross-origin request is a request for a resource (e.g. style sheets, iframes, images, fonts, or scripts) from another domain
+The purpose of crossorigin attribute is used to share the resources from one domain to another domain. Basically, it is used to handle the CORS request. It is used to handle the CORS request that checks whether it is safe to allow for sharing the resources from other domains
+
+
+What is React:
+
+React.js is a JavaScript library used to create User Interfaces (= frontends) in web applications.
+Developers usually like it for providing flexibility and not imposing any architectural solutions. It's stable, easy to learn for people familiar with JavaScript, and supported by a vast and active community.
+React is also known for its component-based architecture. Each component represents a small, reusable piece of HTML that has its own logic and controls. This characteristic makes React apps scalable and easy to test.
+
+
+What is ReactDOM:
+ReactDOM is a library used to render React applications in the browser.
+This functionality used to be a part of React, but because React is now used not only in the browser (e.g. React Native), it has been moved to a separate library
+
+what is Async and differ
+
+in Aysnc  contineous to execute html parse while script tag fetches during execution of html when it encounters the script it starts executes the script and contineous the html parse
+
+Differ
+
+in this HTML parse contineous till the end and script tag feth paralelly and these script tags executes once html copletes it execution parse
